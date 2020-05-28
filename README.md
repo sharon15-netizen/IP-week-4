@@ -10,8 +10,8 @@ Autolib' was an electric car sharing service which was inaugurated in Paris, Fra
 ## SetUP/ Installation Requirements
 clone the repo here
 Navigate the poject directory using
-  *Pandas
-  *colab Notebook
+  Pandas
+  colab Notebook
   
   ## KNOWN BUGS
   The Data set provided contain missing information which resulted from occassional downloadfailure during data collection periods.
@@ -22,7 +22,7 @@ Navigate the poject directory using
   ## SUPPORT AND CONTACT DETAILS.
  If you run into any issues or have questions, ideas or concerns.You can reach me though my email chebetsharon15@gmail.com.
   
-  ##LICENCE
+  ## LICENCE
   
   MIT License
 
