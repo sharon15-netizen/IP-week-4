@@ -14,7 +14,7 @@ Navigate the poject directory using
   colab Notebook
   
   ## KNOWN BUGS
-  The Data set provided contain missing information which resulted from occassional downloadfailure during data collection periods.
+  There is a gap in the povided data set which resulted from occassional downloadfailure during data collection periods.
   
  ## TECHNOLOGIES USED
  Phyton pandas and google colab
