@@ -17,7 +17,7 @@ Navigate the poject directory using
   There is a gap in the povided data set which resulted from occassional downloadfailure during data collection periods.
   
  ## TECHNOLOGIES USED
- Phyton pandas and google colab
+ Phyton pandas and google suite
   
   ## SUPPORT AND CONTACT DETAILS.
  If you run into any issues or have questions, ideas or concerns.You can reach me though my email chebetsharon15@gmail.com.
